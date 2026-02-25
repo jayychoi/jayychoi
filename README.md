@@ -36,4 +36,5 @@ Here are some ideas to get you started:
 - Remove compiler warnings for spring-security-webauthn [#18556](https://github.com/spring-projects/spring-security/pull/18556)
 - Fail on compiler warnings for spring-security-acl [#18557](https://github.com/spring-projects/spring-security/pull/18557)
 
-
+### [Winit](https://github.com/rust-windowing/winit)
+- Fix Korean composing text commit key handling [#4478](https://github.com/rust-windowing/winit/pull/4478)
