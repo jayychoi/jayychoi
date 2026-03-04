@@ -23,10 +23,10 @@ Here are some ideas to get you started:
 ## Open Source Contributions
 
 ### [Spring Boot](https://github.com/spring-projects/spring-boot)
-- Add MongoDB's configuration properties for consistency [#48879](https://github.com/spring-projects/spring-boot/pull/48879)
-- Add SSL support to auto-configuration for Rabbit Streams [#48960](https://github.com/spring-projects/spring-boot/pull/48960)
-- ErrorPageRegistrarBeanPostProcessor is not auto-configured in war deployments and the ErrorPageCustomizer is not applied [#49176](https://github.com/spring-projects/spring-boot/pull/49176)
 - Using @AutoConfigureWebTestClient prevents separate configuration of spring.test.webtestclient.timeout from taking effect [#49340](https://github.com/spring-projects/spring-boot/pull/49340)
+- ErrorPageRegistrarBeanPostProcessor is not auto-configured in war deployments and the ErrorPageCustomizer is not applied [#49176](https://github.com/spring-projects/spring-boot/pull/49176)
+- Add SSL support to auto-configuration for Rabbit Streams [#48960](https://github.com/spring-projects/spring-boot/pull/48960)
+- Add MongoDB's configuration properties for consistency [#48879](https://github.com/spring-projects/spring-boot/pull/48879)
 
 ### [Spring Security](https://github.com/spring-projects/spring-security)
 - Fix javadoc warnings for spring-security-kerberos-client [#18537](https://github.com/spring-projects/spring-security/pull/18537)
